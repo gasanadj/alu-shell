@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-#listing all the process in a hierachy
-ps auxf
