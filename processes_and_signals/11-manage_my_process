@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Bash (init) script 11-manage_my_process that manages manage_my_process. (both files need to be pushed to git)
+# managing processes
 
 start () {
     ./manage_my_process &
@@ -26,6 +26,6 @@ case "$1" in
    stop)  stop;;
    restart) restart;;
    *) echo "Usage: manage_my_process {start|stop|restart}"
-      
+    
       ;;
 esac
