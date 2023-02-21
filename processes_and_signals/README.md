@@ -1,1 +1,1 @@
-Shell processes project
+Shell processes and signals project
